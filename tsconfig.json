@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "removeComments": true,
+    "rootDir": "./",
+    "outDir": "Build",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "pretty": true,
+    "baseUrl": "./"
+  },
+  "exclude": ["node_modules", "Build"]
+}

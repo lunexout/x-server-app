@@ -1,0 +1,13 @@
+{
+    "fileTypes": {
+        "images": {
+            "uploadPath": "/images/",
+            "maxSize": 10000000,
+            "extensions": [
+                "jpg",
+                "jpeg",
+                "png"
+            ]
+        }
+    }
+}
