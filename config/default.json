@@ -1,13 +1,9 @@
 {
-    "fileTypes": {
-        "images": {
-            "uploadPath": "/images/",
-            "maxSize": 10000000,
-            "extensions": [
-                "jpg",
-                "jpeg",
-                "png"
-            ]
-        }
+  "fileTypes": {
+    "images": {
+      "uploadPath": "/images/",
+      "maxSize": 10000000,
+      "extensions": ["jpg", "jpeg", "png"]
     }
+  }
 }
